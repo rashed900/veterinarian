@@ -1,0 +1,542 @@
+@media only screen and (max-width: 1200px){
+    .veterinarian_section .veterinarian_left h1 {
+        font-size: 40px;
+    }
+    .veterinarian_section .veterinarian_left p {
+        font-size: 25px;
+    }
+    .veterinarian_section .veterinarian_imag {
+        width: 80%;
+        margin-left: 80px;
+    }
+    .veterinarian_section .Service_btn {
+        margin-left: 30px;
+    }
+    .price_section .price_content {
+        margin-left: 2%;
+    }
+    .vetcare_section .vetcare_content {
+        margin-left: 1%;
+    }
+    .footer_section .plane {
+        font-size: 20px;
+        transform: translate(0px,2px);
+    }
+    .footer_section .footer_search input {
+        height: 60px;
+    }
+}
+@media only screen and (max-width: 1140px){
+    .header_section .menu ul {
+        padding-left: 24px;
+        margin-right: 21px;
+    };
+    .header_section .header_search input {
+        width: 180px;
+        padding: 0px 12px;
+    }
+    
+    .animal_lover_section .lover_right {
+        margin-right: 20px;
+    }
+    .animal_lover_section .lover_right h1 {
+        font-size: 40px;
+    }
+    .animal_lover_section .lover_right p {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .post_section .post_content {
+        margin-left: 18px;
+    }
+    .footer_section .footer_search input {
+        width: 200px;
+    }
+    .footer_section .plane {
+        transform: translate(0px,3px);
+        padding: 20px 30px;
+    }
+}
+
+
+@media only screen and (max-width: 1100px){
+    .veterinarian_treatment_section .treatmenet_column {
+        padding-left: 5px;
+    }
+    .vetcare_section .vetcare_content {
+        margin-left: 2%;
+    }
+    .header_section .header_search input {
+        width: 140px;
+    }
+    .header_section .fas {
+        padding: 12px 23px 17px 21px;
+    }
+    .header_section .menu ul {
+        padding-left: 24px;
+        margin-right: 5px;
+    }
+    .first_section .banner_left {
+        width: 40%;
+        margin-left: 100px;
+    }
+    .first_section .banner_right {
+        width: 40%;
+        margin-right: 100px;
+    }
+    .footer_section .footer_flex p {
+        font-size: 13px;
+    }
+}
+
+
+@media only screen and (max-width: 1024px){
+    .first_section .banner {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }.first_section .banner_right {
+        width: 39%;
+        margin-top: 190px;
+    }
+    .vetcare_section .vetcare_heading h1 {
+        font-size: 60px;
+    }
+    .vetcare_section .vetcare_heading p {
+        font-size: 25px;
+    }
+    .counter .flex_counter h1 {
+        font-size: 35px;
+    }
+    .counter .flex_counter .counter_up, span {
+        font-weight: 500;
+        font-size: 35px;
+        color: #fff;
+    }
+    .counter .counter_content {
+        margin-left: 0px;
+    }
+    .footer_section .plane {
+        transform: translate(0px,2px);
+    }
+}
+
+
+
+@media only screen and (max-width: 989px){
+    .header_section .menu ul li {
+        float: left;
+        padding: 18px 8px;
+    }
+    .header_section .menu {
+        float: right;
+    }
+    .header_section .header_search {
+        display: none;
+    }
+    .banner{
+        display: none;
+    }
+    .banner2{
+        display: block;
+    }
+    .veterinarian{
+        display:none;
+    }
+    .veterinarian2{
+        display:block;
+    }
+    .veterinarian_treatment_section .treatmenet_column h1 {
+        font-size: 30px;
+    }
+    .veterinarian_treatment_section .treatmenet_column p {
+        font-size: 20px;
+    }
+    .price_section .price_heading h1 {
+        font-size: 60px;
+    }
+    .price_section .price_heading p {
+        font-size: 25px;
+    }
+    .vetcare_section .vetcare_heading h1 {
+        font-size: 55px;
+    }
+    .counter .flex_counter h1 {
+        font-size: 27px;
+    }
+    .counter .flex_counter .counter_up, span {
+        font-size: 27px;
+    }
+    .post_section .post_heding h1 {
+        font-size: 65px;
+    }
+    .post_section .post_heding p {
+        font-size: 25px;
+    }
+    .footer_section .footer_flex h1 {
+        font-size: 30px;
+    }
+    .footer_section .last_footer {
+        text-align: left;
+    }
+    .post_section .news span, h1, p, .read {
+        margin-left: 10px;
+    }
+    .footer_section .footer_flex {
+        margin-right: 0;
+        width: 33.33%;
+    }
+    .footer_section .footer_search input {
+        width: 160px;
+    }
+    .footer_section .plane {
+        transform: translate(0px,3px);
+    }
+}
+
+@media only screen and (max-width: 800px){
+    .price_section .price_column h1 {
+        font-size: 35px;
+    }
+    .counter .flex_counter .counter_up, span {
+        font-size: 27px;
+    }
+    .price_section .price_column button {
+        padding: 12px 24px;
+        font-size: 20px;
+    }
+    .vetcare_section .vetcare_column h1 {
+        font-size: 22px;
+    }
+    .vetcare_section .vetcare_column p {
+        font-size: 18px;
+    }
+    .vetcare_section .social_icon img {
+        width: 11%;
+    }
+}
+
+
+
+@media only screen and (max-width: 767px){
+    .header_section .logo {
+        float: none;
+        text-align: center;
+    }
+    .header_section .menu {
+        float: none;
+        max-width: 438px;
+        margin: auto;
+    }
+    .first_section .banner_right2 h1 {
+        font-size: 45px;
+    }
+    .first_section .banner_right2 p {
+        font-size: 20px;
+    }
+    .first_section .banner_right2 .Contact {
+        font-size: 15px;
+    }
+    .first_section .banner_right2 .Service {
+        font-size: 15px;
+    }
+    .veterinarian_treatment_section .treatment_heading h1 {
+        font-size: 55px;
+    }
+    .veterinarian_treatment_section .treatment_heading p {
+        font-size: 20px;
+    }
+    .veterinarian_treatment_section .treatment_content {
+        display: block;
+    }
+    .veterinarian_treatment_section .treatmenet_column {
+        margin: auto;
+        width: 100%;
+    }
+    .veterinarian_treatment_section .treatmenet_column p {
+        margin-bottom: 25px;
+    }
+    .animal_lover_section .lover_left {
+        float: unset;
+        width: 100%;
+    }
+    .animal_lover_section .lover_right {
+        float: unset;
+        width: 100%;
+        text-align: center;
+    }
+    .animal_lover_section .lover_image::after {
+      display: none;
+    }
+    .veterinarian_section {
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+    .animal_lover_section .lover_right h1 {
+        font-size: 35px;
+        margin-bottom: 5px;
+    }
+    .animal_lover_section .lover_right p {
+        font-size: 20px;
+    }
+    .animal_lover_section {
+        width: 100%;
+        overflow: hidden;
+        margin-top: 0px;
+        padding-bottom: 50px;
+    }
+    .price_section .price_content {
+        display: block;
+    }
+    .price_section .price_column {
+        margin-right: 0;
+        width: 100%;
+    }
+    .price_section .price_heading {
+        width: 100%;
+    }
+    .price_section .price_content {
+        margin-left: 0%;
+    }
+    .price_section .price_column button {
+        margin-bottom: 40px;
+    }
+    .post_section .news span, h1, p, .read {
+        margin-left: 0;
+    }
+    .price_section {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    .vetcare_section .vetcare_content {
+        display: block;
+    }
+    .vetcare_section .vetcare_column {
+        margin-right: 0%;
+        width: 100%;
+    }
+    .vetcare_section .vetcare_content {
+        margin-left: 0%;
+    }
+    .vetcare_section .vetcare_column h1 {
+        font-size: 35px;
+    }
+    .vetcare_section .vetcare_column p {
+        font-size: 22px;
+    }
+    .vetcare_section .social_icon img {
+        width: 7%;
+        margin-bottom: 20px;
+    }
+    .vetcare_section .vetcare_heading h1 {
+        font-size: 45px;
+    }
+    .counter .flex_counter h1 {
+        font-size: 22px;
+    }
+    .counter .flex_counter .counter_up, span {
+        font-size: 20px;
+    }
+    .post_section .post_heding h1 {
+        font-size: 60px;
+    }
+    .post_section .news h1 {
+        font-size: 20px;
+    }
+    .post_section .news .read {
+        font-size: 18px;
+    }
+    .post_section .post_content {
+        margin-left: 14px;
+    }
+    .footer_section .footer_search input {
+        width: 150px;
+    }
+    .footer_section .footer_search input {
+        height: 50px;
+    }
+    .footer_section .plane {
+        transform: translate(0px,3px);
+        padding: 15px 21px;
+    }
+    .footer_section .footer_social img {
+        padding-right: 5px;
+        padding-top: 30px;
+    }
+}
+
+
+@media only screen and (max-width: 640px){
+    .banner_button{
+        max-width: 200px;
+        margin: auto;
+    }
+    .first_section .banner_right2 .Contact {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .vetcare_section .vetcare_heading h1 {
+        font-size: 45px;
+    }
+    .counter .flex_counter {
+        width: 30.34%;
+    }
+    .post_section .post_heding h1 {
+        font-size: 50px;
+    }
+    .post_section .post_heding p {
+        font-size: 20px;
+    }
+    .footer_section .footer_content {
+        display: block;
+    }
+    .footer_section .footer_flex {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .footer_section {
+        width: 100%;
+        background-color: #313131;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        overflow: hidden;
+    }
+
+}
+
+@media only screen and (max-width: 580px){
+    .veterinarian_section .veterinarian_right2 h1 {
+        font-size: 40px;
+    }
+    .veterinarian_section .veterinarian_right2 p {
+        font-size: 20px;
+}
+.veterinarian_section .Service_btn {
+	font-size: 15px;
+	padding: 10px 20px;
+}
+.animal_lover_section .lover_right h1 {
+	font-size: 30px;
+}
+.animal_lover_section .our_button {
+	font-size: 15px;
+	padding: 10px 20px;
+}
+.vetcare_section .vetcare_heading {
+	width: 100%;
+}
+.counter .flex_counter {
+	width: 29.34%;
+}
+.counter .flex_counter h1 {
+	font-size: 17px;
+}
+.post_section {
+	padding-top: 20px;
+	padding-bottom: 60px;
+}
+.post_section .post_heding h1 {
+	font-size: 45px;
+}
+.post_section .post_content {
+    display: block;
+    margin-left: 0;
+}
+.post_section .post_flex {
+	margin-right: 0%;
+	width: 100%;
+}
+.post_section .post_flex .news {
+	margin-bottom: 40px;
+}
+.post_section .post_heding {
+	width: 100%;
+}
+}
+
+@media only screen and (max-width: 460px){
+    .header_section .menu ul li {
+        float: none;
+        padding: 5px 0px;
+    }
+    .banner_left2 {
+        max-width: 300px;
+    }
+    .veterinarian_section .veterinarian_right2 {
+        text-align: center;
+    }
+    .veterinarian_treatment_section .treatment_heading h1 {
+        font-size: 40px;
+    }
+    .veterinarian_treatment_section .treatment_heading {
+        width: 100%;
+    }
+    .price_section .price_heading h1 {
+        font-size: 50px;
+    }
+    .price_section .price_heading p {
+        font-size: 20px;
+    }
+    .vetcare_section .vetcare_heading h1 {
+        font-size: 40px;
+    }
+    .vetcare_section .social_icon {
+        margin-left: 0;
+    }
+    .counter .counter_content {
+        margin-bottom: 50px;
+    }
+    .counter .counter_content {
+        margin-top: 70px;
+    }
+    .counter .flex_counter h1 {
+        font-size: 15px;
+    }
+    .counter .flex_counter .counter_up, span {
+        font-size: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 414px){
+    .vetcare_section .vetcare_heading h1 {
+        font-size: 35px;
+    }
+    .vetcare_section .vetcare_heading p {
+        font-size: 20px;
+    }
+    .counter .counter_content {
+        display: block;
+    }
+    .counter .flex_counter {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .counter .flex_counter h1 {
+        font-size: 22px;
+    }
+    .counter .flex_counter .counter_up, span {
+        font-size: 22px;
+    }
+    .post_section .post_heding h1 {
+        font-size: 40px;
+    }
+    .post_section .post_heding p {
+        font-size: 15px;
+    }
+    .post_section .news p {
+        font-size: 15px;
+    }
+    .post_section .news .read {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 360px){
+    .price_section .price_heading h1 {
+        font-size: 45px;
+    }
+    .price_section .price_heading p {
+        font-size: 16px;
+    }
+}
